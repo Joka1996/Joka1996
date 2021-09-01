@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Joka1996
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...webbutveckling 3 och projektledning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in hockey, movies and web development!
+- 🌱 I’m currently studiyng web development at Mittuniversitetet.
+- 📫 Contact me at duveled@gmail.com 
 
 <!---
 Joka1996/Joka1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
